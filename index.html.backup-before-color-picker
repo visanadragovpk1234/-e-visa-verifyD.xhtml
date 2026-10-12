@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)https://visa.nadra.gov.pk/e-visa/verifyD.xhtml -->
+<html xmlns="http://www.w3.org/1999/xhtml"><plasmo-csui id="plasmo-inspector"><template shadowrootmode="open"><style>@import "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap";@import "https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap";@import "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap";*,:before,:after,::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:#3b82f680;--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }*,:before,:after{box-sizing:border-box;border:0 solid #e5e7eb}:before,:after{--tw-content:""}html,:host{-webkit-text-size-adjust:100%;tab-size:4;font-feature-settings:normal;font-variation-settings:normal;-webkit-tap-highlight-color:transparent;font-family:ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}body{line-height:inherit;margin:0}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,samp,pre{font-feature-settings:normal;font-variation-settings:normal;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:1em}small{font-size:80%}sub,sup{vertical-align:baseline;font-size:75%;line-height:0;position:relative}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-feature-settings:inherit;font-variation-settings:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}button,input:where([type=button]),input:where([type=reset]),input:where([type=submit]){-webkit-appearance:button;background-color:#0000;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dl,dd,h1,h2,h3,h4,h5,h6,hr,figure,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}ol,ul,menu{margin:0;padding:0;list-style:none}dialog{padding:0}textarea{resize:vertical}input::-moz-placeholder{opacity:1;color:#9ca3af}textarea::-moz-placeholder{opacity:1;color:#9ca3af}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}button,[role=button]{cursor:pointer}:disabled{cursor:default}img,svg,video,canvas,audio,iframe,embed,object{vertical-align:middle;display:block}img,video{max-width:100%;height:auto}[hidden]:where(:not([hidden=until-found])){display:none}.\!container{width:100%!important}.container{width:100%}@media (width>=640px){.\!container{max-width:640px!important}.container{max-width:640px}}@media (width>=768px){.\!container{max-width:768px!important}.container{max-width:768px}}@media (width>=1024px){.\!container{max-width:1024px!important}.container{max-width:1024px}}@media (width>=1280px){.\!container{max-width:1280px!important}.container{max-width:1280px}}@media (width>=1536px){.\!container{max-width:1536px!important}.container{max-width:1536px}}.sr-only{clip:rect(0,0,0,0);white-space:nowrap;border-width:0;width:1px;height:1px;margin:-1px;padding:0;position:absolute;overflow:hidden}.pointer-events-none{pointer-events:none}.visible{visibility:visible}.collapse{visibility:collapse}.static{position:static}.fixed{position:fixed}.absolute{position:absolute}.relative{position:relative}.inset-0{inset:0}.-left-5{left:-1.25rem}.-right-3{right:-.75rem}.-top-16{top:-4rem}.-top-5{top:-1.25rem}.-top-6{top:-1.5rem}.-top-8{top:-2rem}.-top-9{top:-2.25rem}.bottom-0{bottom:0}.left-0{left:0}.left-1\/2{left:50%}.left-12{left:3rem}.left-\[32px\]{left:32px}.right-0{right:0}.right-4{right:1rem}.right-\[15px\]{right:15px}.right-\[21px\]{right:21px}.right-\[39px\]{right:39px}.top-0{top:0}.top-0\.5{top:.125rem}.top-4{top:1rem}.top-40{top:10rem}.top-8{top:2rem}.top-\[120px\]{top:120px}.top-\[127px\]{top:127px}.top-\[13px\]{top:13px}.top-\[23px\]{top:23px}.top-\[250px\]{top:250px}.top-\[47px\]{top:47px}.top-auto{top:auto}.z-0{z-index:0}.z-10{z-index:10}.z-20{z-index:20}.z-50{z-index:50}.z-\[1000\]{z-index:1000}.z-\[999999\]{z-index:999999}.col-span-2{grid-column:span 2/span 2}.m-0{margin:0}.m-1{margin:.25rem}.m-2{margin:.5rem}.m-3{margin:.75rem}.m-4{margin:1rem}.m-auto{margin:auto}.-mx-4{margin-left:-1rem;margin-right:-1rem}.mx-0{margin-left:0;margin-right:0}.mx-4{margin-left:1rem;margin-right:1rem}.mx-auto{margin-left:auto;margin-right:auto}.my-0{margin-top:0;margin-bottom:0}.my-1{margin-top:.25rem;margin-bottom:.25rem}.my-10{margin-top:2.5rem;margin-bottom:2.5rem}.my-12{margin-top:3rem;margin-bottom:3rem}.my-16{margin-top:4rem;margin-bottom:4rem}.my-2{margin-top:.5rem;margin-bottom:.5rem}.my-2\.5{margin-top:.625rem;margin-bottom:.625rem}.my-3{margin-top:.75rem;margin-bottom:.75rem}.my-4{margin-top:1rem;margin-bottom:1rem}.my-5{margin-top:1.25rem;margin-bottom:1.25rem}.my-6{margin-top:1.5rem;margin-bottom:1.5rem}.my-8{margin-top:2rem;margin-bottom:2rem}.-mb-2{margin-bottom:-.5rem}.mb-0{margin-bottom:0}.mb-1{margin-bottom:.25rem}.mb-10{margin-bottom:2.5rem}.mb-12{margin-bottom:3rem}.mb-16{margin-bottom:4rem}.mb-2{margin-bottom:.5rem}.mb-3{margin-bottom:.75rem}.mb-4{margin-bottom:1rem}.mb-5{margin-bottom:1.25rem}.mb-6{margin-bottom:1.5rem}.mb-8{margin-bottom:2rem}.ml-1{margin-left:.25rem}.ml-2{margin-left:.5rem}.ml-3{margin-left:.75rem}.ml-4{margin-left:1rem}.ml-5{margin-left:1.25rem}.ml-\[-1rem\]{margin-left:-1rem}.ml-auto{margin-left:auto}.mr-0{margin-right:0}.mr-1{margin-right:.25rem}.mr-2{margin-right:.5rem}.mr-3{margin-right:.75rem}.mr-4{margin-right:1rem}.mr-\[-1rem\]{margin-right:-1rem}.ms-3{margin-inline-start:.75rem}.mt-0{margin-top:0}.mt-1{margin-top:.25rem}.mt-10{margin-top:2.5rem}.mt-12{margin-top:3rem}.mt-16{margin-top:4rem}.mt-2{margin-top:.5rem}.mt-3{margin-top:.75rem}.mt-4{margin-top:1rem}.mt-5{margin-top:1.25rem}.mt-6{margin-top:1.5rem}.mt-8{margin-top:2rem}.mt-\[-1rem\]{margin-top:-1rem}.block{display:block}.inline-block{display:inline-block}.inline{display:inline}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.contents{display:contents}.hidden{display:none}.aspect-square{aspect-ratio:1}.h-10{height:2.5rem}.h-14{height:3.5rem}.h-16{height:4rem}.h-2{height:.5rem}.h-3{height:.75rem}.h-4{height:1rem}.h-5{height:1.25rem}.h-6{height:1.5rem}.h-8{height:2rem}.h-9{height:2.25rem}.h-\[140px\]{height:140px}.h-\[14px\]{height:14px}.h-\[152px\]{height:152px}.h-\[1px\]{height:1px}.h-\[24px\]{height:24px}.h-\[251px\]{height:251px}.h-\[252px\]{height:252px}.h-\[280px\]{height:280px}.h-\[32px\]{height:32px}.h-\[360px\]{height:360px}.h-\[36px\]{height:36px}.h-\[643px\]{height:643px}.h-\[650px\]{height:650px}.h-\[6px\]{height:6px}.h-\[80\%\]{height:80%}.h-\[88px\]{height:88px}.h-auto{height:auto}.h-full{height:100%}.h-screen{height:100vh}.max-h-\[400px\]{max-height:400px}.max-h-\[594px\]{max-height:594px}.max-h-\[643px\]{max-height:643px}.max-h-\[644px\]{max-height:644px}.max-h-\[648px\]{max-height:648px}.max-h-\[794px\]{max-height:794px}.max-h-\[80vh\]{max-height:80vh}.max-h-\[813px\]{max-height:813px}.max-h-fit{max-height:fit-content}.max-h-full{max-height:100%}.min-h-0{min-height:0}.min-h-\[50px\]{min-height:50px}.w-1\/2{width:50%}.w-10{width:2.5rem}.w-11\/12{width:91.6667%}.w-12{width:3rem}.w-14{width:3.5rem}.w-16{width:4rem}.w-3{width:.75rem}.w-4{width:1rem}.w-5{width:1.25rem}.w-6{width:1.5rem}.w-8{width:2rem}.w-\[106px\]{width:106px}.w-\[108px\]{width:108px}.w-\[116px\]{width:116px}.w-\[120px\]{width:120px}.w-\[130px\]{width:130px}.w-\[140px\]{width:140px}.w-\[147px\]{width:147px}.w-\[167px\]{width:167px}.w-\[168px\]{width:168px}.w-\[177px\]{width:177px}.w-\[180px\]{width:180px}.w-\[195px\]{width:195px}.w-\[222px\]{width:222px}.w-\[296px\]{width:296px}.w-\[30px\]{width:30px}.w-\[328px\]{width:328px}.w-\[360px\]{width:360px}.w-\[48\%\]{width:48%}.w-\[50\%\]{width:50%}.w-\[60px\]{width:60px}.w-\[6px\]{width:6px}.w-\[78px\]{width:78px}.w-\[90\%\]{width:90%}.w-\[97px\]{width:97px}.w-\[98px\]{width:98px}.w-\[calc\(100\%-19px\)\]{width:calc(100% - 19px)}.w-auto{width:auto}.w-fit{width:fit-content}.w-full{width:100%}.w-min{width:min-content}.min-w-48{min-width:12rem}.min-w-5{min-width:1.25rem}.min-w-\[138px\]{min-width:138px}.min-w-\[160px\]{min-width:160px}.max-w-\[150px\]{max-width:150px}.max-w-\[220px\]{max-width:220px}.max-w-\[290px\]{max-width:290px}.max-w-\[450px\]{max-width:450px}.max-w-\[500px\]{max-width:500px}.max-w-lg{max-width:32rem}.max-w-md{max-width:28rem}.max-w-xl{max-width:36rem}.flex-1{flex:1}.flex-shrink-0,.shrink-0{flex-shrink:0}.flex-grow{flex-grow:1}.-translate-x-1\/2{--tw-translate-x:-50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.-translate-y-16{--tw-translate-y:-4rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.-translate-y-2{--tw-translate-y:-.5rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.-translate-y-6{--tw-translate-y:-1.5rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.translate-x-0{--tw-translate-x:0px;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.translate-x-0\.5{--tw-translate-x:.125rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.translate-x-3{--tw-translate-x:.75rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.translate-x-8{--tw-translate-x:2rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.translate-x-\[0\.6rem\]{--tw-translate-x:.6rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.translate-y-2{--tw-translate-y:.5rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.translate-y-\[23px\]{--tw-translate-y:23px;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.rotate-180{--tw-rotate:180deg;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.scale-100{--tw-scale-x:1;--tw-scale-y:1;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.scale-95{--tw-scale-x:.95;--tw-scale-y:.95;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.transform{transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}@keyframes pulse{50%{opacity:.5}}.animate-pulse-slow{animation:3s cubic-bezier(.4,0,.6,1) infinite pulse}.cursor-default{cursor:default}.cursor-grab{cursor:grab}.cursor-grabbing{cursor:grabbing}.cursor-not-allowed{cursor:not-allowed}.cursor-pointer{cursor:pointer}.select-none{user-select:none}.resize{resize:both}.list-none{list-style-type:none}.grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.flex-row{flex-direction:row}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.flex-nowrap{flex-wrap:nowrap}.items-start{align-items:flex-start}.items-end{align-items:flex-end}.items-center{align-items:center}.items-baseline{align-items:baseline}.justify-start{justify-content:flex-start}.justify-end{justify-content:flex-end}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.justify-around{justify-content:space-around}.gap-0{gap:0}.gap-1{gap:.25rem}.gap-2{gap:.5rem}.gap-3{gap:.75rem}.gap-4{gap:1rem}.gap-\[10px\]{gap:10px}.gap-x-1{-moz-column-gap:.25rem;column-gap:.25rem}.gap-x-2{-moz-column-gap:.5rem;column-gap:.5rem}.gap-x-3{-moz-column-gap:.75rem;column-gap:.75rem}.gap-y-2{row-gap:.5rem}.gap-y-3{row-gap:.75rem}.gap-y-4{row-gap:1rem}.gap-y-5{row-gap:1.25rem}.space-x-1>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.25rem*var(--tw-space-x-reverse));margin-left:calc(.25rem*calc(1 - var(--tw-space-x-reverse)))}.space-y-1>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(.25rem*calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(.25rem*var(--tw-space-y-reverse))}.space-y-2>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(.5rem*calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(.5rem*var(--tw-space-y-reverse))}.space-y-3>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(.75rem*calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(.75rem*var(--tw-space-y-reverse))}.space-y-4>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1rem*calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1rem*var(--tw-space-y-reverse))}.divide-y>:not([hidden])~:not([hidden]){--tw-divide-y-reverse:0;border-top-width:calc(1px*calc(1 - var(--tw-divide-y-reverse)));border-bottom-width:calc(1px*var(--tw-divide-y-reverse))}.divide-gray-100>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgb(243 244 246/var(--tw-divide-opacity,1))}.overflow-auto{overflow:auto}.overflow-hidden{overflow:hidden}.overflow-visible{overflow:visible}.overflow-x-auto{overflow-x:auto}.overflow-y-auto{overflow-y:auto}.overflow-x-hidden{overflow-x:hidden}.overflow-x-scroll{overflow-x:scroll}.overflow-y-scroll{overflow-y:scroll}.truncate{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.whitespace-normal{white-space:normal}.whitespace-nowrap{white-space:nowrap}.whitespace-pre-line{white-space:pre-line}.whitespace-pre-wrap{white-space:pre-wrap}.break-words{overflow-wrap:break-word}.rounded{border-radius:.25rem}.rounded-\[3px\]{border-radius:3px}.rounded-\[4px\]{border-radius:4px}.rounded-full{border-radius:9999px}.rounded-lg{border-radius:.5rem}.rounded-md{border-radius:.375rem}.rounded-sm{border-radius:.125rem}.rounded-xl{border-radius:.75rem}.rounded-b-lg{border-bottom-right-radius:.5rem;border-bottom-left-radius:.5rem}.rounded-b-xl{border-bottom-right-radius:.75rem;border-bottom-left-radius:.75rem}.rounded-t-lg{border-top-left-radius:.5rem;border-top-right-radius:.5rem}.rounded-t-xl{border-top-left-radius:.75rem;border-top-right-radius:.75rem}.border{border-width:1px}.border-y{border-top-width:1px;border-bottom-width:1px}.border-b{border-bottom-width:1px}.border-t{border-top-width:1px}.border-dashed{border-style:dashed}.border-none{border-style:none}.border-black\/10{border-color:#0000001a}.border-black\/15{border-color:#00000026}.border-black\/20{border-color:#0003}.border-black\/25{border-color:#00000040}.border-black\/8{border-color:#00000014}.border-black\/\[0\.16\]{border-color:#00000029}.border-gray-200{--tw-border-opacity:1;border-color:rgb(229 231 235/var(--tw-border-opacity,1))}.border-gray-300{--tw-border-opacity:1;border-color:rgb(209 213 219/var(--tw-border-opacity,1))}.border-gray-700{--tw-border-opacity:1;border-color:rgb(55 65 81/var(--tw-border-opacity,1))}.border-peeper-purple{--tw-border-opacity:1;border-color:rgb(93 45 230/var(--tw-border-opacity,1))}.border-red-200{--tw-border-opacity:1;border-color:rgb(254 202 202/var(--tw-border-opacity,1))}.border-surface-gray{--tw-border-opacity:1;border-color:rgb(245 245 245/var(--tw-border-opacity,1))}.border-white{--tw-border-opacity:1;border-color:rgb(255 255 255/var(--tw-border-opacity,1))}.border-white\/10{border-color:#ffffff1a}.border-white\/15{border-color:#ffffff26}.border-white\/20{border-color:#fff3}.border-white\/25{border-color:#ffffff40}.border-white\/8{border-color:#ffffff14}.border-t-gray-200{--tw-border-opacity:1;border-top-color:rgb(229 231 235/var(--tw-border-opacity,1))}.border-t-white\/15{border-top-color:#ffffff26}.bg-\[\#05381A\]{--tw-bg-opacity:1;background-color:rgb(5 56 26/var(--tw-bg-opacity,1))}.bg-\[\#580808\]{--tw-bg-opacity:1;background-color:rgb(88 8 8/var(--tw-bg-opacity,1))}.bg-\[\#C5F1D8\]{--tw-bg-opacity:1;background-color:rgb(197 241 216/var(--tw-bg-opacity,1))}.bg-\[\#C7C7C7\]{--tw-bg-opacity:1;background-color:rgb(199 199 199/var(--tw-bg-opacity,1))}.bg-\[\#EBEBEB\]{--tw-bg-opacity:1;background-color:rgb(235 235 235/var(--tw-bg-opacity,1))}.bg-\[\#FCDEDE\]{--tw-bg-opacity:1;background-color:rgb(252 222 222/var(--tw-bg-opacity,1))}.bg-active-tab{background-color:#5d2de614}.bg-active-tab-hover{background-color:#5d2de629}.bg-black{--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity,1))}.bg-black\/10{background-color:#0000001a}.bg-black\/25{background-color:#00000040}.bg-black\/30{background-color:#0000004d}.bg-black\/40{background-color:#0006}.bg-black\/5{background-color:#0000000d}.bg-black\/60{background-color:#0009}.bg-black\/8{background-color:#00000014}.bg-blue-500{--tw-bg-opacity:1;background-color:rgb(59 130 246/var(--tw-bg-opacity,1))}.bg-gray-100{--tw-bg-opacity:1;background-color:rgb(243 244 246/var(--tw-bg-opacity,1))}.bg-gray-200{--tw-bg-opacity:1;background-color:rgb(229 231 235/var(--tw-bg-opacity,1))}.bg-gray-300{--tw-bg-opacity:1;background-color:rgb(209 213 219/var(--tw-bg-opacity,1))}.bg-peeper-dark-gray{--tw-bg-opacity:1;background-color:rgb(38 38 38/var(--tw-bg-opacity,1))}.bg-peeper-dark-pink\/15{background-color:#fb3aa226}.bg-peeper-dark-pink\/25{background-color:#fb3aa240}.bg-peeper-gray{--tw-bg-opacity:1;background-color:rgb(102 102 102/var(--tw-bg-opacity,1))}.bg-peeper-green{--tw-bg-opacity:1;background-color:rgb(5 56 26/var(--tw-bg-opacity,1))}.bg-peeper-light-green{--tw-bg-opacity:1;background-color:rgb(211 248 225/var(--tw-bg-opacity,1))}.bg-peeper-pink-accent{--tw-bg-opacity:1;background-color:rgb(255 235 246/var(--tw-bg-opacity,1))}.bg-peeper-purple{--tw-bg-opacity:1;background-color:rgb(93 45 230/var(--tw-bg-opacity,1))}.bg-peeper-purple\/15{background-color:#5d2de626}.bg-peeper-purple\/35{background-color:#5d2de659}.bg-peeper-purple\/50{background-color:#5d2de680}.bg-peeper-purple\/8{background-color:#5d2de614}.bg-peeper-white-hover{--tw-bg-opacity:1;background-color:rgb(245 245 245/var(--tw-bg-opacity,1))}.bg-primary{--tw-bg-opacity:1;background-color:rgb(14 14 14/var(--tw-bg-opacity,1))}.bg-red-50{--tw-bg-opacity:1;background-color:rgb(254 242 242/var(--tw-bg-opacity,1))}.bg-secondary{--tw-bg-opacity:1;background-color:rgb(38 38 38/var(--tw-bg-opacity,1))}.bg-surface-gray{--tw-bg-opacity:1;background-color:rgb(245 245 245/var(--tw-bg-opacity,1))}.bg-transparent{background-color:#0000}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1))}.bg-white\/10{background-color:#ffffff1a}.bg-white\/15{background-color:#ffffff26}.bg-white\/5{background-color:#ffffff0d}.bg-white\/8{background-color:#ffffff14}.bg-opacity-80{--tw-bg-opacity:.8}.bg-gradient-to-b{background-image:linear-gradient(to bottom,var(--tw-gradient-stops))}.bg-gradient-to-t{background-image:linear-gradient(to top,var(--tw-gradient-stops))}.from-black\/0{--tw-gradient-from:#0000 var(--tw-gradient-from-position);--tw-gradient-to:#0000 var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)}.from-white\/0{--tw-gradient-from:#fff0 var(--tw-gradient-from-position);--tw-gradient-to:#fff0 var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)}.from-white\/80{--tw-gradient-from:#fffc var(--tw-gradient-from-position);--tw-gradient-to:#fff0 var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)}.via-white\/50{--tw-gradient-to:#fff0 var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from),#ffffff80 var(--tw-gradient-via-position),var(--tw-gradient-to)}.via-white\/70{--tw-gradient-to:#fff0 var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from),#ffffffb3 var(--tw-gradient-via-position),var(--tw-gradient-to)}.to-black\/60{--tw-gradient-to:#0009 var(--tw-gradient-to-position)}.to-white\/0{--tw-gradient-to:#fff0 var(--tw-gradient-to-position)}.to-white\/100{--tw-gradient-to:#fff var(--tw-gradient-to-position)}.fill-\[\#5D2DE6\]{fill:#5d2de6}.fill-\[\#999\]{fill:#999}.fill-\[\#9E81F0\]{fill:#9e81f0}.fill-\[\#C7C7C7\]{fill:#c7c7c7}.fill-inspector-props{fill:#999}.fill-peeper-dark-gray{fill:#262626}.stroke-peeper-gray{stroke:#666}.stroke-peeper-light-pink{stroke:#9e81f0}.stroke-peeper-purple{stroke:#5d2de6}.stroke-peeper-white-secondary{stroke:#c7c7c7}.object-contain{-o-object-fit:contain;object-fit:contain}.object-cover{-o-object-fit:cover;object-fit:cover}.p-0{padding:0}.p-1{padding:.25rem}.p-1\.5{padding:.375rem}.p-2{padding:.5rem}.p-3{padding:.75rem}.p-4{padding:1rem}.p-5{padding:1.25rem}.p-6{padding:1.5rem}.p-\[12px\]{padding:12px}.px-0{padding-left:0;padding-right:0}.px-1{padding-left:.25rem;padding-right:.25rem}.px-2{padding-left:.5rem;padding-right:.5rem}.px-3{padding-left:.75rem;padding-right:.75rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.px-\[10px\]{padding-left:10px;padding-right:10px}.py-0{padding-top:0;padding-bottom:0}.py-1{padding-top:.25rem;padding-bottom:.25rem}.py-2{padding-top:.5rem;padding-bottom:.5rem}.py-3{padding-top:.75rem;padding-bottom:.75rem}.py-4{padding-top:1rem;padding-bottom:1rem}.py-5{padding-top:1.25rem;padding-bottom:1.25rem}.py-8{padding-top:2rem;padding-bottom:2rem}.py-\[2px\]{padding-top:2px;padding-bottom:2px}.pb-1{padding-bottom:.25rem}.pb-4{padding-bottom:1rem}.pb-6{padding-bottom:1.5rem}.pl-1{padding-left:.25rem}.pl-3{padding-left:.75rem}.pr-2{padding-right:.5rem}.pt-1{padding-top:.25rem}.pt-2{padding-top:.5rem}.pt-4{padding-top:1rem}.text-left{text-align:left}.text-center{text-align:center}.font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}.font-roboto{font-family:Roboto,sans-serif,Roboto Mono}.font-roboto-mono{font-family:Roboto Mono}.text-2xl{font-size:1.5rem;line-height:2rem}.text-\[10px\]{font-size:10px}.text-\[12px\]{font-size:12px}.text-\[14px\]{font-size:14px}.text-base{font-size:1rem;line-height:1.5rem}.text-lg{font-size:1.125rem;line-height:1.75rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-xl{font-size:1.25rem;line-height:1.75rem}.text-xs{font-size:.75rem;line-height:1rem}.font-\[500\]{font-weight:500}.font-bold{font-weight:700}.font-light{font-weight:300}.font-medium{font-weight:500}.font-normal{font-weight:400}.font-semibold{font-weight:600}.uppercase{text-transform:uppercase}.\!capitalize{text-transform:capitalize!important}.capitalize{text-transform:capitalize}.normal-case{text-transform:none}.leading-120{line-height:120%}.leading-130{line-height:130%}.leading-140{line-height:140%}.leading-6{line-height:1.5rem}.leading-none{line-height:1}.leading-paragraph{line-height:140%}.tracking-14{letter-spacing:-.14px}.tracking-16{letter-spacing:-.16px}.tracking-2{letter-spacing:-.2px}.tracking-24{letter-spacing:-.24px}.tracking-4{letter-spacing:-.4px}.tracking-wide{letter-spacing:.025em}.tracking-wider{letter-spacing:.05em}.text-\[\#0E0E0E\]{--tw-text-opacity:1;color:rgb(14 14 14/var(--tw-text-opacity,1))}.text-\[\#580808\]{--tw-text-opacity:1;color:rgb(88 8 8/var(--tw-text-opacity,1))}.text-\[\#C5F1D8\]{--tw-text-opacity:1;color:rgb(197 241 216/var(--tw-text-opacity,1))}.text-\[\#F7CECE\]{--tw-text-opacity:1;color:rgb(247 206 206/var(--tw-text-opacity,1))}.text-black{--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity,1))}.text-blue-500{--tw-text-opacity:1;color:rgb(59 130 246/var(--tw-text-opacity,1))}.text-blue-600{--tw-text-opacity:1;color:rgb(37 99 235/var(--tw-text-opacity,1))}.text-gray-200{--tw-text-opacity:1;color:rgb(229 231 235/var(--tw-text-opacity,1))}.text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity,1))}.text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128/var(--tw-text-opacity,1))}.text-gray-600{--tw-text-opacity:1;color:rgb(75 85 99/var(--tw-text-opacity,1))}.text-gray-700{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity,1))}.text-gray-800{--tw-text-opacity:1;color:rgb(31 41 55/var(--tw-text-opacity,1))}.text-gray-900{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity,1))}.text-inspector-props{--tw-text-opacity:1;color:rgb(153 153 153/var(--tw-text-opacity,1))}.text-orange-600{--tw-text-opacity:1;color:rgb(234 88 12/var(--tw-text-opacity,1))}.text-peeper-dark-gray{--tw-text-opacity:1;color:rgb(38 38 38/var(--tw-text-opacity,1))}.text-peeper-gray{--tw-text-opacity:1;color:rgb(102 102 102/var(--tw-text-opacity,1))}.text-peeper-green{--tw-text-opacity:1;color:rgb(5 56 26/var(--tw-text-opacity,1))}.text-peeper-light-pink{--tw-text-opacity:1;color:rgb(158 129 240/var(--tw-text-opacity,1))}.text-peeper-pink{--tw-text-opacity:1;color:rgb(201 46 130/var(--tw-text-opacity,1))}.text-peeper-purple{--tw-text-opacity:1;color:rgb(93 45 230/var(--tw-text-opacity,1))}.text-peeper-white{--tw-text-opacity:1;color:rgb(222 222 222/var(--tw-text-opacity,1))}.text-peeper-white-secondary{--tw-text-opacity:1;color:rgb(199 199 199/var(--tw-text-opacity,1))}.text-primary{--tw-text-opacity:1;color:rgb(14 14 14/var(--tw-text-opacity,1))}.text-primary\/60{color:#0e0e0e99}.text-primary\/80{color:#0e0e0ecc}.text-red-600{--tw-text-opacity:1;color:rgb(220 38 38/var(--tw-text-opacity,1))}.text-red-800{--tw-text-opacity:1;color:rgb(153 27 27/var(--tw-text-opacity,1))}.text-secondary{--tw-text-opacity:1;color:rgb(38 38 38/var(--tw-text-opacity,1))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))}.text-white\/60{color:#fff9}.text-white\/80{color:#fffc}.text-white\/90{color:#ffffffe6}.opacity-0{opacity:0}.opacity-100{opacity:1}.opacity-30{opacity:.3}.opacity-50{opacity:.5}.opacity-60{opacity:.6}.\!shadow{--tw-shadow:0 1px 3px 0 #0000001a,0 1px 2px -1px #0000001a!important;--tw-shadow-colored:0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color)!important;box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)!important}.shadow{--tw-shadow:0 1px 3px 0 #0000001a,0 1px 2px -1px #0000001a;--tw-shadow-colored:0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-lg{--tw-shadow:0 10px 15px -3px #0000001a,0 4px 6px -4px #0000001a;--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-md{--tw-shadow:0 4px 6px -1px #0000001a,0 2px 4px -2px #0000001a;--tw-shadow-colored:0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-sm{--tw-shadow:0 1px 2px 0 #0000000d;--tw-shadow-colored:0 1px 2px 0 var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-xl{--tw-shadow:0 20px 25px -5px #0000001a,0 8px 10px -6px #0000001a;--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color),0 8px 10px -6px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-white{--tw-shadow-color:#fff;--tw-shadow:var(--tw-shadow-colored)}.outline{outline-style:solid}.outline-2{outline-width:2px}.outline-offset-4{outline-offset:4px}.outline-blue-400{outline-color:#60a5fa}.ring{--tw-ring-offset-shadow:var(--tw-ring-inset)0 0 0 var(--tw-ring-offset-width)var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset)0 0 0 calc(3px + var(--tw-ring-offset-width))var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.ring-4{--tw-ring-offset-shadow:var(--tw-ring-inset)0 0 0 var(--tw-ring-offset-width)var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset)0 0 0 calc(4px + var(--tw-ring-offset-width))var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.ring-blue-400{--tw-ring-opacity:1;--tw-ring-color:rgb(96 165 250/var(--tw-ring-opacity,1))}.ring-offset-2{--tw-ring-offset-width:2px}.blur{--tw-blur:blur(8px);filter:var(--tw-blur)var(--tw-brightness)var(--tw-contrast)var(--tw-grayscale)var(--tw-hue-rotate)var(--tw-invert)var(--tw-saturate)var(--tw-sepia)var(--tw-drop-shadow)}.filter{filter:var(--tw-blur)var(--tw-brightness)var(--tw-contrast)var(--tw-grayscale)var(--tw-hue-rotate)var(--tw-invert)var(--tw-saturate)var(--tw-sepia)var(--tw-drop-shadow)}.backdrop-blur-sm{--tw-backdrop-blur:blur(4px);backdrop-filter:var(--tw-backdrop-blur)var(--tw-backdrop-brightness)var(--tw-backdrop-contrast)var(--tw-backdrop-grayscale)var(--tw-backdrop-hue-rotate)var(--tw-backdrop-invert)var(--tw-backdrop-opacity)var(--tw-backdrop-saturate)var(--tw-backdrop-sepia)}.transition{transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-duration:.15s;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition-all{transition-property:all;transition-duration:.15s;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition-colors{transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-duration:.15s;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition-opacity{transition-property:opacity;transition-duration:.15s;transition-timing-function:cubic-bezier(.4,0,.2,1)}.transition-transform{transition-property:transform;transition-duration:.15s;transition-timing-function:cubic-bezier(.4,0,.2,1)}.duration-0{transition-duration:0s}.duration-100{transition-duration:.1s}.duration-150{transition-duration:.15s}.duration-200{transition-duration:.2s}.duration-300{transition-duration:.3s}.duration-500{transition-duration:.5s}.ease-in-out{transition-timing-function:cubic-bezier(.4,0,.2,1)}@custom-variant dark (&:where(.dark,.dark*));body{cursor:default;margin:0;padding:0;font-family:Inter,sans-serif;font-size:16px;line-height:1.5}#plasmo-shadow-container{position:fixed!important}.hide-scrollbar::-webkit-scrollbar{display:none}.hide-scrollbar{-ms-overflow-style:none;scrollbar-width:none}.fill-available{height:stretch}.transparency-grid{background-color:#fff;background-image:linear-gradient(45deg,#d4d4d40f 25%,#0000 25%),linear-gradient(-45deg,#d4d4d481 25%,#0000 25%),linear-gradient(45deg,#0000 75%,#d4d4d481 75%),linear-gradient(-45deg,#0000 75%,#d4d4d481 75%);background-position:0 0,0 10px,10px -10px,-10px 0;background-size:20px 20px}.transparency-grid-black{background-color:#000;background-image:repeating-conic-gradient(#1a1a1a 0% 25%,#333 0% 50%);background-size:20px 20px}.border-element{background:#f5f5f5;position:absolute}.border-element-dark{background:#262626;position:absolute}.top{width:85%;height:4px;top:-1px;left:50%;transform:translate(-50%)}.bottom{width:85%;height:4px;bottom:-1px;left:50%;transform:translate(-50%)}.left{width:4px;height:79%;top:50%;left:-1px;transform:translateY(-50%)}.right{width:4px;height:79%;top:50%;right:-1px;transform:translateY(-50%)}.shadow{box-shadow:0 1px 3px #0000001f}.button_shadow{box-shadow:0 3px 3px -3px #00000029}.soft-shadow{box-shadow:0 4px 4px -4px #00000029}.dropdown-shadow{box-shadow:0 4px 4px -4px #00000040}.blur-fade:after{content:"";pointer-events:none;background:linear-gradient(270deg,#fff,#0000);width:80px;position:absolute;top:0;bottom:0;right:0}.blur-fade-dark:after{content:"";pointer-events:none;background:linear-gradient(270deg,#0e0e0e,#0000);width:80px;position:absolute;top:0;bottom:0;right:0}.gradient-background{background:linear-gradient(241deg,#fef6eb -.17%,#fef0f8 100%);transition:transform .3s ease-in-out;position:absolute;inset:0}.hover\:border-gray-300:hover{--tw-border-opacity:1;border-color:rgb(209 213 219/var(--tw-border-opacity,1))}.hover\:bg-active-tab:hover{background-color:#5d2de614}.hover\:bg-active-tab-hover:hover{background-color:#5d2de629}.hover\:bg-black\/10:hover{background-color:#0000001a}.hover\:bg-black\/5:hover{background-color:#0000000d}.hover\:bg-black\/8:hover{background-color:#00000014}.hover\:bg-blue-600:hover{--tw-bg-opacity:1;background-color:rgb(37 99 235/var(--tw-bg-opacity,1))}.hover\:bg-gray-100:hover{--tw-bg-opacity:1;background-color:rgb(243 244 246/var(--tw-bg-opacity,1))}.hover\:bg-gray-50:hover{--tw-bg-opacity:1;background-color:rgb(249 250 251/var(--tw-bg-opacity,1))}.hover\:bg-peeper-dark-gray:hover{--tw-bg-opacity:1;background-color:rgb(38 38 38/var(--tw-bg-opacity,1))}.hover\:bg-peeper-pink-accent\/80:hover{background-color:#ffebf6cc}.hover\:bg-peeper-purple-hover:hover{--tw-bg-opacity:1;background-color:rgb(74 36 184/var(--tw-bg-opacity,1))}.hover\:bg-peeper-purple\/15:hover{background-color:#5d2de626}.hover\:bg-peeper-purple\/30:hover{background-color:#5d2de64d}.hover\:bg-peeper-purple\/50:hover{background-color:#5d2de680}.hover\:bg-peeper-purple\/90:hover{background-color:#5d2de6e6}.hover\:bg-peeper-white-hover:hover{--tw-bg-opacity:1;background-color:rgb(245 245 245/var(--tw-bg-opacity,1))}.hover\:bg-peeper-white-hover\/15:hover{background-color:#f5f5f526}.hover\:bg-peeper-white-hover\/5:hover{background-color:#f5f5f50d}.hover\:bg-primary\/80:hover{background-color:#0e0e0ecc}.hover\:bg-surface-gray:hover{--tw-bg-opacity:1;background-color:rgb(245 245 245/var(--tw-bg-opacity,1))}.hover\:bg-white\/10:hover{background-color:#ffffff1a}.hover\:bg-white\/15:hover{background-color:#ffffff26}.hover\:bg-white\/20:hover{background-color:#fff3}.hover\:bg-white\/25:hover{background-color:#ffffff40}.hover\:bg-white\/30:hover{background-color:#ffffff4d}.hover\:bg-white\/5:hover{background-color:#ffffff0d}.hover\:bg-white\/8:hover{background-color:#ffffff14}.hover\:bg-opacity-100:hover{--tw-bg-opacity:1}.hover\:text-gray-900:hover{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity,1))}.hover\:text-primary:hover{--tw-text-opacity:1;color:rgb(14 14 14/var(--tw-text-opacity,1))}.hover\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))}.hover\:opacity-70:hover{opacity:.7}.focus\:outline-none:focus{outline-offset:2px;outline:2px solid #0000}.active\:cursor-grabbing:active{cursor:grabbing}.group:hover .group-hover\:border-\[\#7241FF\]{--tw-border-opacity:1;border-color:rgb(114 65 255/var(--tw-border-opacity,1))}.group:hover .group-hover\:stroke-\[\#7241FF\]{stroke:#7241ff}.group:hover .group-hover\:opacity-100{opacity:1}.peer:checked~.peer-checked\:bg-peeper-purple{--tw-bg-opacity:1;background-color:rgb(93 45 230/var(--tw-bg-opacity,1))}.peer:focus~.peer-focus\:ring-2{--tw-ring-offset-shadow:var(--tw-ring-inset)0 0 0 var(--tw-ring-offset-width)var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset)0 0 0 calc(2px + var(--tw-ring-offset-width))var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.after\:absolute:after{position:absolute}.after\:start-\[2px\]:after{inset-inline-start:2px}.after\:top-\[2px\]:after{top:2px}.after\:h-3:after{height:.75rem}.after\:w-3:after{width:.75rem}.after\:rounded-full:after{border-radius:9999px}.after\:border:after{border-width:1px}.after\:border-gray-300:after{--tw-border-opacity:1;border-color:rgb(209 213 219/var(--tw-border-opacity,1))}.after\:bg-white:after{--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1))}.after\:transition-all:after{transition-property:all;transition-duration:.15s;transition-timing-function:cubic-bezier(.4,0,.2,1)}.after\:content-\[\'\'\]:after{--tw-content:"";content:var(--tw-content)}.peer:checked~.peer-checked\:after\:translate-x-2:after{--tw-translate-x:.5rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}.peer:checked~.peer-checked\:after\:border-white:after{--tw-border-opacity:1;border-color:rgb(255 255 255/var(--tw-border-opacity,1))}.dark\:border-gray-600:is(.dark *){--tw-border-opacity:1;border-color:rgb(75 85 99/var(--tw-border-opacity,1))}.dark\:bg-gray-300:is(.dark *){--tw-bg-opacity:1;background-color:rgb(209 213 219/var(--tw-bg-opacity,1))}.dark\:bg-gray-700:is(.dark *){--tw-bg-opacity:1;background-color:rgb(55 65 81/var(--tw-bg-opacity,1))}.dark\:text-blue-500:is(.dark *){--tw-text-opacity:1;color:rgb(59 130 246/var(--tw-text-opacity,1))}.dark\:text-gray-400:is(.dark *){--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity,1))}.dark\:text-gray-600:is(.dark *){--tw-text-opacity:1;color:rgb(75 85 99/var(--tw-text-opacity,1))}.dark\:text-orange-400:is(.dark *){--tw-text-opacity:1;color:rgb(251 146 60/var(--tw-text-opacity,1))}.peer:checked~.rtl\:peer-checked\:after\:-translate-x-2:where([dir=rtl],[dir=rtl] *):after{--tw-translate-x:-.5rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y))rotate(var(--tw-rotate))skewX(var(--tw-skew-x))skewY(var(--tw-skew-y))scaleX(var(--tw-scale-x))scaleY(var(--tw-scale-y))}</style><div id="plasmo-shadow-container" style="z-index: 2147483647; position: relative;"><div id="plasmo-overlay-0" class="plasmo-csui-container" style="display: flex; position: absolute; top: 0px; left: 0px;"></div></div></template></plasmo-csui><head id="j_idt2"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge"><link type="text/css" rel="stylesheet" href="theme.css.xhtml"><link type="text/css" rel="stylesheet" href="primeicons.css.xhtml"><link type="text/css" rel="stylesheet" href="components.css.xhtml"><script type="text/javascript" async="" src="./PAK VISA_files/js"></script><script async="" src="./PAK VISA_files/analytics.js"></script><script type="text/javascript" src="./PAK VISA_files/jquery.js.xhtml"></script><script type="text/javascript" src="./PAK VISA_files/jquery-plugins.js.xhtml"></script><script type="text/javascript" src="./PAK VISA_files/core.js.xhtml"></script><script type="text/javascript" src="./PAK VISA_files/primefaces-extensions.js.xhtml"></script><link type="text/css" rel="stylesheet" href="blockui.css.xhtml"><script type="text/javascript" src="./PAK VISA_files/blockui.js.xhtml"></script><script type="text/javascript">if(window.PrimeFaces){PrimeFaces.settings.locale='en_US';PrimeFaces.settings.viewId='/verifyD.xhtml';PrimeFaces.settings.contextPath='/e-visa';PrimeFaces.settings.cookiesSecure=false;}</script>  
+	<title>PAK VISA</title>
+	
+	<meta name="format-detection" content="telephone=no">
+	<!-- Mobile Specific Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="ionicons.css">
+	<link rel="stylesheet" type="text/css" href="shortcodes.css">		
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="font-nadra.css">
+	<link rel="stylesheet" type="text/css" href="responsive.css">
+	<link rel="stylesheet" type="text/css" href="animate.css">
+	<link rel="stylesheet" type="text/css" href="custom.css">
+	<link rel="stylesheet" type="text/css" href="primefaces.css">
+	
+	
+	<link rel="stylesheet" type="text/css" href="errormsg.css">
+	<!--     &lt;link rel="stylesheet" type="text/css" href="/e-visa/css/iconmoon.css"&gt;&lt;/link&gt; -->
+
+	<!-- Favicon and touch icons  -->
+	<link href="https://visa.nadra.gov.pk/e-visa/images/favicon.ico" rel="shortcut icon">
+
+	<link rel="stylesheet" type="text/css" href="font-awesome.min.css">
+	<noscript>
+		<meta http-equiv="refresh" content="0;noJS.xhtml" />
+	</noscript>
+
+	<link rel="shortcut icon" href="https://visa.nadra.gov.pk/e-visa/images/2.fw.ico">
+	
+	<!-- Javascript 
+    &lt;script type="text/javascript" src="js/jquery.min.js"&gt;&lt;/script&gt;-->
+	<script type="text/javascript" src="./PAK VISA_files/bootstrap.min.js"></script>
+	<script type="text/javascript" src="./PAK VISA_files/waypoints.min.js"></script>
+
+	<script type="text/javascript" src="./PAK VISA_files/main.js" defer="defer"></script>
+	<script type="text/javascript" src="./PAK VISA_files/custom.js"></script>
+
+
+	<!-- Including Java Script(s)  -->
+	<script type="text/javascript" src="./PAK VISA_files/validations.js"></script>
+<!-- 	&lt;script type="text/javascript" src="/e-visa/js/detectInterentConnectivity.js"&gt;&lt;/script&gt; -->
+	
+	<script type="text/javascript" src="./PAK VISA_files/template.js"></script>
+	<!-- END -->
+
+
+	<!--For HELP ToolTip -->
+	<link rel="stylesheet" type="text/css" href="tooltipster.css">
+	<script type="text/javascript" src="./PAK VISA_files/tooltips.js"></script>
+	<script src="./PAK VISA_files/jquery.tooltipster.js"></script>
+
+	<script src="./PAK VISA_files/bowser.js"></script>
+
+	<style type="text/css">
+		body {
+			font: 14px/24px "Poppins", sans-serif !important;
+		    background-color: #fff;
+		    color: #666666;
+		}
+		
+		.preview__header {
+			font-size: 12px;
+			min-height: 35px;
+			background-color: #44aa68;
+			z-index: 100;
+			color: #fff;
+		}
+		
+		@media (max-width: 767px) {
+			.banner-hide-xs {
+				display: none !important;
+			}
+		}
+		
+		.top-banner-allignment {
+			
+			width: auto;
+			padding-right: 100px;
+			padding-top: 50px;
+			float: right;
+			display: block;
+		
+		}
+		
+		@media(max-width: 991px) {
+				.top-banner-allignment {
+					text-align: center;
+					float: none;
+    				padding-right: 0;
+    				padding-top: 200px;
+    				display: block;
+				}
+			}
+		
+		@media(max-width: 430px) {
+		
+			.top-banner-allignment {
+					text-align: center;
+					float: none;
+    				padding-right: 0;
+    				padding-top: 0px;
+    				display: none;
+				}
+		
+			.top-banner img {
+ 			   width: 100px;
+    		
+			}
+			
+		}
+		
+	</style>
+		<style type="text/css">
+.label-div {
+	text-align: left;
+}
+
+.value-div {
+	text-align: left;
+}
+
+@media ( max-width : 991px) {
+	.label-div {
+		text-align: center;
+	}
+	.value-div {
+		text-align: center;
+	}
+}
+</style>
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="Y5STP-VJLC6-V49ME-TWT4V-G4HYW",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"Y5STP-VJLC6-V49ME-TWT4V-G4HYW";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="wnax3ocy3vobw2wlggiq-f-85ea0c262-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1845307","ak.ai":parseInt("1161368",10),"ak.ol":"0","ak.cr":177,"ak.ipv":4,"ak.proto":"h2","ak.rid":"583bac7","ak.r":45969,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":14698,"ak.gh":"2.18.41.27","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1791701393","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==XsmkFoauM9jmE8rnaz64HU3frWh9AIOZNSmCgKHsc5c9lNXBoJg95JP0Zq8zgjTBUptHZy5nL/mKIaQgzTRvhwPxF7D3e2AImD3l4jlM2LdnzN5lAmRAoo5t3KYTx2JoTjsW6tDMxoRP/oDpiybtZuDkHiFIVPcx54yRSer0u8EdA1qcRqcUCiolGhtKo0/spwUTZIKfhRtC86J9C6G6A9kEfgAKe5Hj26u4plvzmYfun7F6dLC886mW8wn5nW8YV2sPzYfE3qWhDrnK2JTU/dRff+T26KmDzESENN8ou71ML3qhlRqoSmH0jpMQ/OKx8lwaNL9MqjJkEXut7z2GYieJpLY+KrqhL8/A7m9wzW5MxYFVpg+dZg6R/5fDZcfX3LQTp+Kv0bNSf6DNwwV1f2X0MvFTGbdUxPWXR9IBTCY=","ak.pv":"6","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><link href="./PAK VISA_files/Y5STP-VJLC6-V49ME-TWT4V-G4HYW" rel="preload" as="script"><script id="boomr-scr-as" src="./PAK VISA_files/Y5STP-VJLC6-V49ME-TWT4V-G4HYW" async=""></script><style></style></head><body onload="doesConnectionExist();" cz-shortcut-listen="true" data-new-gr-c-s-check-loaded="14.1336.0" data-gr-ext-installed=""><div id="j_idt8_content" style="display: none;"><table>
+<tbody>
+<tr>
+<td><img src="./PAK VISA_files/ajax-loading.gif" style="margin-right: 12px; vertical-align: middle;"></td>
+<td><span style="white-space: nowrap;">Please wait...</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+	
+	<div class="row">
+		<div class="col-md-12 col-sm-12 banner-hide-xs preview__header" id="infoHeader" style="display: none !important;">
+			<div class="col-md-11 col-sm-11 text-center">
+				<p style="margin-top: 7px;padding-left: 228px;font-weight: bold;font-size: 14px;">
+					PAK VISA IS CROSS BROWSER COMPATIBLE. HOWEVER, FOR OPTIMAL EXPERIENCE RECOMMENDED BROWSER IS GOOGLE CHROME. 
+				</p>
+			</div>
+			<div class="col-md-1 col-sm-1 text-right">
+				<span onclick="closeInfoBar();" style="cursor: pointer;line-height: 35px;">X</span>
+			</div>
+		</div>
+	</div>
+		
+	<div class="boxed">
+		<div class="preloader" style="opacity: 0; display: none;">
+			<div class="clear-loading loading-effect-2">
+				<span></span>
+			</div>
+		</div>
+<form id="j_idt14" name="j_idt14" method="post" action="https://visa.nadra.gov.pk/e-visa/verifyD.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt14" value="j_idt14">
+
+<script type="text/javascript" src="./PAK VISA_files/browser.js"></script>
+<!-- &lt;script type="text/javascript" src="/e-visa/js/detectInterentConnectivity.js"&gt;&lt;/script&gt; -->
+	<div id="connectionLostDiv">
+	<div id="connectionLostMessage">
+		<img src="./PAK VISA_files/connecting.gif"> <br><br>
+		<span>Connection Lost. Trying to reconnect...</span> 
+	</div>
+	</div>
+	<header id="header" class="header bg-color">
+	<style>
+		#header.ui-widget-content {
+		    background: #fff !important;
+		    border: none;
+		}
+	</style><div id="j_idt14:j_idt16_content" style="display: none;"><table>
+<tbody>
+<tr>
+<td><img src="./PAK VISA_files/ajax-loading.gif" style="margin-right: 12px; vertical-align: middle;"></td>
+<td><span style="white-space: nowrap;">Please wait...</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+			<div class="container" style="height: 70px;">
+				<div class="row">
+				
+				
+					<div class="header-wrap">
+						<div class="col-md-4 col-xs-10">
+							<div id="logo" class="logo"><script type="text/javascript" src="./PAK VISA_files/jsf.js.xhtml"></script><a href="https://visa.nadra.gov.pk/e-visa/verifyD.xhtml#" onclick="jsf.util.chain(this,event,'PF(\'blockUIWidgetMenu\').block()','mojarra.jsfcljs(document.getElementById(\'j_idt14\'),{\'j_idt14:j_idt21\':\'j_idt14:j_idt21\'},\'\')');return false"><img src="./assets/pak_visa_logo.png" style="height:50px;"></a>
+								 
+							</div><!-- /#logo -->                            
+						</div><!-- /.col-md-2 -->
+						<div class="col-md-8 col-xs-2">	
+                          
+							<div class="nav-wrap">
+                                <div class="btn-menu">
+                                    <span></span>
+                                </div><!-- //mobile menu button -->								
+																						
+							<nav id="mainnav" class="mainnav">
+									<ul class="menu">
+										<li><a href="https://visa.nadra.gov.pk/e-visa/verifyD.xhtml#" onclick="jsf.util.chain(this,event,'PF(\'blockUIWidgetMenu\').block()','mojarra.jsfcljs(document.getElementById(\'j_idt14\'),{\'j_idt14:j_idt26\':\'j_idt14:j_idt26\'},\'\')');return false" class="urduLang urduFont">Home</a>  
+										</li>
+										
+										<li><a href="https://visa.nadra.gov.pk/how-to-apply/" target="_blank">Guidelines</a>
+										</li>
+										
+										<li><a href="https://visa.nadra.gov.pk/download/" target="_blank">Downloads</a>
+										</li>
+										
+										<li><a href="https://visa.nadra.gov.pk/faqs/" target="_blank">FAQ</a>
+										</li>
+										
+										<li><a href="https://visa.nadra.gov.pk/contact/" target="_blank">Contact Us</a>
+										</li>
+									</ul>
+								</nav></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header><div style="height: 70px; display: none;"></div><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="-7850436528023406201:-153093731576644233" autocomplete="off">
+</form>
+		
+		<section class="flat-row">
+			<div class="top-banner">
+				<div class="row">
+					<div class="col-md-12 top-banner-allignment">
+					</div>
+				</div>
+			</div>
+			<div class="container">
+		<div class="row pd-contact-v2">
+<form id="errorForm" name="errorForm" method="post" action="https://visa.nadra.gov.pk/e-visa/verifyD.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="errorForm" value="errorForm">
+
+				<div id="login-block" class="col-md-8  col-md-offset-2 animated slideInUp fadeOutDown">
+					<article class="post style2">
+						<div class="content-post" style="text-align: center;">
+
+							<h1 class="title-post text-center urduLang" style="text-align: center;">
+								<a href="https://visa.nadra.gov.pk/e-visa/verifyD.xhtml#" title="">Visa Reference Number - 88005808943</a>
+							</h1>
+							<hr>
+
+
+							<div class="row">
+
+								<div class="col-md-4">
+									<img src="./assets/porfile.png" class="applicant-photo" width="152px">
+								</div>
+
+								<div class="col-md-8">
+
+
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div">
+												<label>NAME</label>
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;">Armani
+													&nbsp;  Farmanullah</p>
+											</div>
+										</div>
+
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div"><span style=" font-size: 24; font-weight: bold;">Passport No</span>
+
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;">P10218627</p>
+											</div>
+
+
+
+
+
+										</div>
+
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div"><span style="  font-size: 24; font-weight: bold;">Passport Country</span>
+
+
+
+
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;">Afghanistan</p>
+											</div>
+										</div>
+
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div">
+												<label>Visa Category</label>
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;">Medical</p>
+											</div>
+										</div>
+
+								</div>
+
+							</div>
+
+								<div class="row" style="margin-top: 20px;">
+									<div class="col-md-6">
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div">
+												<label>Visa Sub Category</label>
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;">Short-Term</p>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-6">
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div">
+												<label>Application Type</label>
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;">Entry</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row" style="margin-top: 20px;">
+									<div class="col-md-6">
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div">
+												<label>Staying Facility</label>
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;">Multiple Entry - Upto 1 Year</p>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-6">
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div">
+												<label>Visa Start Date</label>
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;"> 02 oct 2026</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row" style="margin-top: 20px;">
+									<div class="col-md-6">
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div">
+												<label>Visa End Date</label>
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;"> 08 oct 2026</p>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-6">
+										<div class="row" style="margin-top: 20px;">
+											<div class="col-md-5 ct-u-padding0 ct-u-margin0 label-div">
+												<label>Visa Duration</label>
+											</div>
+
+											<div class="col-md-7 ct-u-padding0 ct-u-margin0 value-div">
+												<p style="font-size: 15px;">60 day(s)</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							<div class="row text-center ct-u-marginTop20" style="text-align: center;"><a href="https://visa.nadra.gov.pk/e-visa/verifyD.xhtml#" onclick="mojarra.jsfcljs(document.getElementById('errorForm'),{'errorForm:j_idt72':'errorForm:j_idt72'},'');return false" class="btn btn-success  btn-lg button-submit">Back to Login</a>
+							</div>
+						</div>
+					</article>
+				</div><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:1" value="-7850436528023406201:-153093731576644233" autocomplete="off">
+</form>
+		</div>
+			</div>
+		</section>
+	</div>
+	<div id="wrapper">
+
+		<div id="connectionLostDiv" style="height:100%; width:100%; position:fixed; opacity:0.9; background-color:#B6B6B4; top:0px; left:0px; margin:0px; z-index:2000; vertical-align:middle; text-align:center; display: none;">
+			<div id="connectionLostMessage" style="height:50%; width:50%; position:fixed; color:#000; top:25%; left:25%; margin:0px; z-index:3000; vertical-align:middle; text-align:center; font-size: 32px;">
+				<img src="./PAK VISA_files/connecting.gif"> <br>
+				<br> <span>Connection Lost. Trying to reconnect...</span>
+			</div>
+		</div>
+	</div>
+		<footer id="footer">
+			<div class="footer-bottom visible-lg visible-md visible-sm">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center" id="footerCredits" style="float: none; margin:0 auto;">
+							<div class="copyright text-uppercase text-center">
+								<p class="urdufooter" style="width: 100%; margin-bottom:0;">COPYRIGHT © 2015 -
+								
+									2026
+									 
+									MINISTRY OF INTERIOR, GOVERNMENT OF PAKISTAN - All rights reserved - v: 6.1.2</p>
+		
+							</div>
+							<!-- /.menu-footer -->
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="footer-bottom visible-xs">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center" id="footerCredits" style="float: none; margin:0 auto;">
+							<div class="copyright text-uppercase text-center">
+								<p class="urdufooter" style="width: 100%; margin-bottom:0;">COPYRIGHT © 2015 - 
+								
+									2026
+								
+									MINISTRY OF INTERIOR, GOVERNMENT OF PAKISTAN - v: 6.1.2</p>
+		
+							</div>
+							<!-- /.menu-footer -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+	<!-- /#footer -->
+	<div class="button-go-top">
+		<a href="https://visa.nadra.gov.pk/e-visa/verifyD.xhtml#" title="" class="go-top"> <i class="fa fa-chevron-up"></i>
+		</a>
+	</div>
+	
+	<script type="text/javascript" src="./PAK VISA_files/payme.js"></script>
+	<script type="text/javascript" src="./PAK VISA_files/eid.js"></script>
+	<script type="text/javascript" src="./PAK VISA_files/google-analytics.js"></script>
+	<script type="text/javascript" src="./PAK VISA_files/topbar-scroll.js"></script>
+<div id="textarea_simulator" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"></div><aside contenteditable="false" id="color_picker">
+		<svg id="color_box" width="263" height="130">
+			<defs>
+				<lineargradient id="saturation" x1="0%" y1="0%" x2="100%" y2="0%">
+					<stop offset="0%" stop-color="#fff"></stop>
+					<stop offset="100%" stop-color="hsl(0,100%,50%)"></stop>
+				</lineargradient>
+				<lineargradient id="brightness" x1="0%" y1="0%" x2="0%" y2="100%">
+					<stop offset="0%" stop-color="rgba(0,0,0,0)"></stop>
+					<stop offset="100%" stop-color="#000"></stop>
+				</lineargradient>
+				<pattern id="pattern_config" width="100%" height="100%">
+					<rect x="0" y="0" width="100%" height="100%" fill="url(#saturation)"></rect> }
+					<rect x="0" y="0" width="100%" height="100%" fill="url(#brightness)"></rect>
+				</pattern>
+			</defs>
+			<rect rx="5" ry="5" x="1" y="1" width="263" height="130" stroke="#fff" stroke-width="2" fill="url(#pattern_config)"></rect>
+			<svg id="box_dragger" x="336" y="14" style="overflow: visible;">
+				<circle r="9" fill="none" stroke="#000" stroke-width="2"></circle>
+				<circle r="7" fill="none" stroke="#fff" stroke-width="2"></circle>
+			</svg>
+		</svg>
+		<br>
+		<div id="sliders">
+			<svg id="color_slider" width="263" height="20">
+				<defs>
+					<lineargradient id="hue" x1="100%" y1="0%" x2="0%" y2="0%">
+						<stop offset="0%" stop-color="#f00"></stop>
+						<stop offset="16.666%" stop-color="#ff0"></stop>
+						<stop offset="33.333%" stop-color="#0f0"></stop>
+						<stop offset="50%" stop-color="#0ff"></stop>
+						<stop offset="66.666%" stop-color="#00f"></stop>
+						<stop offset="83.333%" stop-color="#f0f"></stop>
+						<stop offset="100%" stop-color="#f00"></stop>
+					</lineargradient>
+				</defs>
+				<rect rx="5" ry="5" x="1" y="1" width="263" height="20" stroke="#fff" stroke-width="2" fill="url(#hue)"></rect>
+				<svg id="color_slider_dragger" x="277" y="11" style="overflow: visible;">
+					<circle r="7" fill="none" stroke="#000" stroke-width="2"></circle>
+					<circle r="5" fill="none" stroke="#fff" stroke-width="2"></circle>
+				</svg>
+			</svg>
+			<svg id="opacity_slider" width="263" height="20">
+				<defs>
+					<lineargradient id="opacity" x1="100%" y1="0%" x2="0%" y2="0%">
+						<stop offset="0%" stop-color="#000"></stop>
+						<stop offset="100%" stop-color="#fff"></stop>
+					</lineargradient>
+				</defs>
+				<rect rx="5" ry="5" x="1" y="6" width="263" height="10" stroke="#fff" stroke-width="2" fill="url(#opacity)"></rect>
+				<svg id="opacity_slider_dragger" x="277" y="11" style="overflow: visible;">
+					<circle r="7" fill="none" stroke="#000" stroke-width="2"></circle>
+					<circle r="5" fill="none" stroke="#fff" stroke-width="2"></circle>
+				</svg>
+			</svg>
+		</div>
+		<div id="color_text_values" tabindex="0">
+			<div id="hexa">
+				<input id="hex_input" name="hex_input" type="text" maxlength="9" spellcheck="false">
+				<br>
+				<label for="hex_input" class="label_text">HEX</label>
+			</div>
+			<div id="rgba" style="display: none;">
+				<div class="rgba_divider">
+					<input class="rgba_input" name="r" type="number" min="0" max="255">
+					<br>
+					<label for="r" class="label_text">R</label>
+				</div>
+				<div class="rgba_divider">
+					<input class="rgba_input" name="g" type="number" min="0" max="255">
+					<br>
+					<label for="g" class="label_text">G</label>
+				</div>
+				<div class="rgba_divider">
+					<input class="rgba_input" name="b" type="number" min="0" max="255">
+					<br>
+					<label for="b" class="label_text">B</label>
+				</div>
+				<div class="rgba_divider">
+					<input class="rgba_input" name="a" type="number" step="0.1" min="0" max="1">
+					<br>
+					<label for="a" class="label_text">A</label>
+				</div>
+			</div>
+			<div id="hsla" style="display: none;">
+				<div class="hsla_divider">
+					<input class="hsla_input" name="h" type="number" min="0" max="359">
+					<br>
+					<label for="h" class="label_text">H</label>
+				</div>
+				<div class="hsla_divider">
+					<input class="hsla_input" name="s" type="number" min="0" max="100">
+					<br>
+					<label for="s" class="label_text">S%</label>
+				</div>
+				<div class="hsla_divider">
+					<input class="hsla_input" name="l" type="number" min="0" max="100">
+					<br>
+					<label for="l" class="label_text">L%</label>
+				</div>
+				<div class="rgba_divider">
+					<input class="hsla_input" name="a" type="number" step="0.1" min="0" max="1">
+					<br>
+					<label for="a" class="label_text">A</label>
+				</div>
+			</div>
+			<button id="switch_color_type" class="remove_outline" name="switch-color-type">
+				<svg viewBox="0 -2 24 24" width="20" height="20">
+					<path fill="#555" d="M6 11v-4l-6 5 6 5v-4h12v4l6-5-6-5v4z"></path>
+				</svg>
+			</button>
+		</div>
+		<div id="custom_colors">
+			<div id="custom_colors_header">
+				<svg id="custom_colors_pallet_icon" viewBox="0 0 24 24" width="15" height="18">
+					<path fill="#555" d="M4 21.832c4.587.38 2.944-4.493 7.188-4.538l1.838 1.534c.458 5.538-6.315 6.773-9.026 3.004zm14.065-7.115c1.427-2.239 5.847-9.749 5.847-9.749.352-.623-.43-1.273-.976-.813 0 0-6.572 5.714-8.511 7.525-1.532 1.432-1.539 2.086-2.035 4.447l1.68 1.4c2.227-.915 2.868-1.039 3.995-2.81zm-11.999 3.876c.666-1.134 1.748-2.977 4.447-3.262.434-2.087.607-3.3 2.547-5.112 1.373-1.282 4.938-4.409 7.021-6.229-1-2.208-4.141-4.023-8.178-3.99-6.624.055-11.956 5.465-11.903 12.092.023 2.911 1.081 5.571 2.82 7.635 1.618.429 2.376.348 3.246-1.134zm6.952-15.835c1.102-.006 2.005.881 2.016 1.983.004 1.103-.882 2.009-1.986 2.016-1.105.009-2.008-.88-2.014-1.984-.013-1.106.876-2.006 1.984-2.015zm-5.997 2.001c1.102-.01 2.008.877 2.012 1.983.012 1.106-.88 2.005-1.98 2.016-1.106.007-2.009-.881-2.016-1.988-.009-1.103.877-2.004 1.984-2.011zm-2.003 5.998c1.106-.007 2.01.882 2.016 1.985.01 1.104-.88 2.008-1.986 2.015-1.105.008-2.005-.88-2.011-1.985-.011-1.105.879-2.004 1.981-2.015zm10.031 8.532c.021 2.239-.882 3.718-1.682 4.587l-.046.044c5.255-.591 9.062-4.304 6.266-7.889-1.373 2.047-2.534 2.442-4.538 3.258z"></path>
+				</svg>
+				<button id="custom_colors_add" class="remove_outline" name="add-a-custom-color">
+					<svg viewBox="0 -2 24 24" width="14" height="16">
+						<path fill="#555" d="M24 10h-10v-10h-4v10h-10v4h10v10h4v-10h10z"></path>
+					</svg>
+				</button>
+			</div>
+			<div id="custom_colors_box">
+			</div>
+		</div>
+		<div id="color_context_menu" class="color_ctx_menu" style="display: none;">
+			<button id="color_clear_single" class="color_ctx_menu" name="remove-single-color">Remove</button>
+			<button id="color_clear_all" class="color_ctx_menu" name="remove-all-colors">Remove All</button>
+		</div>
+	</aside><style type="text/css" id="weStylesheet"></style><div id="give-freely-root-mbnbehikldjhnfehhnaidhjhoofhpehk" class="give-freely-root" data-extension-id="mbnbehikldjhnfehhnaidhjhoofhpehk" data-extension-name="CSS Peeper" style="display: block;"><template shadowrootmode="open"><style>
+  :host {
+    all: initial;
+  }
+
+  .gf-scroll-remove::-webkit-scrollbar {
+    border-radius-bottom-right: 15px;
+  }
+
+  button {
+    cursor: pointer;
+    transition: transform 0.1s ease;
+  }
+
+  button:active {
+    transform: scale(0.98);
+  }
+
+  .give-freely-close-button:hover {
+    opacity: 0.7;
+  }
+
+  input[type="radio"] {
+    margin-right: 8px;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid #e5e5e5;
+    margin: 1em 0;
+  }
+
+  dialog::backdrop  {
+    background-color: revert;
+  }
+
+  dialog.backdrop-hidden::backdrop  {
+    background-color: transparent;
+  }
+</style><div><div class="gf-app"></div></div></template></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true" style="visibility: visible !important;"><template shadowrootmode="open"><style>
+      div.grammarly-desktop-integration {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select:none;
+        user-select:none;
+      }
+
+      div.grammarly-desktop-integration:before {
+        content: attr(data-content);
+      }
+    </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
